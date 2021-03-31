@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neiliss
+- 👀 I’m interested in kubernetes
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on cool stuff
+- 📫 How to reach me here!
