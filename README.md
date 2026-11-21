@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neiliss
-- 👀 I’m interested in kubernetes
+- 👀 I’m interested in all things tech
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me here!
